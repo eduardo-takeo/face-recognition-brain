@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/face-recognition-brain-api/node_modules
 /.pnp
 .pnp.js
 
